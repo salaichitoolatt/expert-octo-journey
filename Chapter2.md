@@ -30,3 +30,4 @@ methods
 5. lowerVolume
 6. increaseBrightness
 7. lowerBrightness
+
